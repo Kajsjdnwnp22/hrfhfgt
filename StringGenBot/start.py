@@ -12,7 +12,7 @@ async def start(bot: Client, msg: Message):
     me2 = (await bot.get_me()).mention
     await bot.send_message(
         chat_id=msg.chat.id,
-        text=f"""¤¦ اهلا بـك عزيـزي 
+        text=f"""¤¦ اهلا بـك عمࢪي 
 
 ¤¦ يمكنك استـخـراج التالـي
 
